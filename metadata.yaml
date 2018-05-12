@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31973'
     url: http://www.gutenberg.org/2009/agents/31973
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26392#The-Hero-of-Garside-School
 gutenberg_issued: '2008-08-22'
 gutenberg_type: Text
 identifiers:
